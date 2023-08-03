@@ -1,0 +1,17 @@
+{
+  "name": "test-koffie-appraat-matthijs",
+  "version": "1.0.0",
+  "description": "Banaan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx jest",
+    "test-watch": "npx jest --watch"
+  },
+  "author": "matthijs van der maas",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^29.6.2",
+    "jest": "^29.6.2"
+  }
+}
